@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python cv.py
+
+pdflatex cv.tex

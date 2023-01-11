@@ -1,0 +1,23 @@
+[
+    {
+        "section_name": "education",
+        "tex_cmd": "education",
+        "path": "./education/",
+        "fields": [
+            "degree",
+            "org",
+            "date"
+        ]
+    },
+    {
+        "section_name": "experience",
+        "tex_cmd": "experience",
+        "path": "./experience/",
+        "fields": [
+            "title",
+            "org",
+            "date",
+            "body"
+        ]
+    }
+]
